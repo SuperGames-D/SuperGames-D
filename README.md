@@ -10,6 +10,7 @@ I like programming a lot. The languages I know are:
 - Python
 - html
 - Godot (GDscript)
+- Javascript
 
 My favorite game is Geometry Dash, and I've tried to recreate it with Scratch and Godot.
 
