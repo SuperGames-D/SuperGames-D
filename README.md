@@ -4,16 +4,9 @@
 
 Hello, I'm SuperGames-!
 
-I like programming a lot. The languages I know are:
+I like creating games. Visit [GameSup](https://gamesupd.github.io) to download my awesome games!
 
-- Scratch
-- Python
-- html
-- Godot (GDscript)
-- Javascript
+My favorite game is Geometry Dash, and I've tried to recreate it many times.
 
-My favorite game is Geometry Dash, and I've tried to recreate it with Scratch and Godot.
+[My Website](https://supergames-d.github.io)!
 
-I also have a [website](https://supergames-d.github.io)!
-
-Visit [GameSup](https://gamesupd.github.io) to download awesome games!
