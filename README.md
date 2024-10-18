@@ -4,9 +4,9 @@
 
 Hello, I'm SuperGames-!
 
-I like creating games. Visit [GameSup](https://gamesupd.github.io) to download my awesome games!
+I'm a game developer, visit [my itch.io page](https://supergames-d.itch.io) to play my games.
 
-My favorite game is Geometry Dash, and I've tried to recreate it many times.
+My favorite game is Geometry Dash.
 
 [My Website](https://supergames-d.github.io)!
 
